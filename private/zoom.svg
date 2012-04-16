@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33"
+   height="33"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/seb/Professionnel/2007-2011_Dumais_Lab/CellDivisionProject/Matlab/private"
+   sodipodi:docname="zoom.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="21.318452"
+     inkscape:cy="20.211919"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-347.19637,-565.55862)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.89448214;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2475"
+       width="32.105518"
+       height="32.105518"
+       x="347.64362"
+       y="566.00586"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3257"
+       transform="translate(1.2461003,1.1002858)">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2731863"
+         sodipodi:start="6.2854024e-46"
+         transform="matrix(0.5270585,0,0,0.5270585,319.50598,567.52997)"
+         d="M 93.92857,18 A 19.642857,19.642857 0 1 1 93.927588,17.803594"
+         sodipodi:ry="19.642857"
+         sodipodi:rx="19.642857"
+         sodipodi:cy="18"
+         sodipodi:cx="74.285713"
+         id="path2388"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <rect
+         transform="matrix(0.7083378,0.7058737,-0.7098395,0.7043635,0,0)"
+         y="154.84424"
+         x="672.56628"
+         height="1.9448012"
+         width="14.517581"
+         id="rect3160"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#fffef3;stroke-width:0.43393171;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="path3162"
+         d="M 358.65888,570.14644 L 358.65888,583.22878"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.97705317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3164"
+         d="M 352.0236,576.84762 L 365.10594,576.84762"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.97705317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33"
+   height="33"
+   id="svg97"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/lapo/Icone/tangerine-icon-theme/scalable/actions"
+   sodipodi:docname="document-open.svg"
+   inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/snowdunes/gnome-fs-directory-accept.png"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-ydpi="90.000000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective98" />
+    <linearGradient
+       id="linearGradient1696">
+      <stop
+         id="stop1698"
+         offset="0.0000000"
+         style="stop-color:#d3d7cf" />
+      <stop
+         id="stop1700"
+         offset="1.0000000"
+         style="stop-color:#888a85" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3158">
+      <stop
+         style="stop-color:#babdb6"
+         offset="0"
+         id="stop3160" />
+      <stop
+         style="stop-color:#2e3436"
+         offset="1"
+         id="stop3162" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13842">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop13844" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop13846" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9766">
+      <stop
+         style="stop-color:#f57900"
+         offset="0"
+         id="stop9768" />
+      <stop
+         style="stop-color:#fcaf3e"
+         offset="1"
+         id="stop9770" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient148">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop149" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop150" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient335">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop336" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop337" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1789">
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1;"
+         offset="0"
+         id="stop1790" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop1791" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient137">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop138" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop139" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient259">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop260" />
+      <stop
+         id="stop8238"
+         offset="0.5"
+         style="stop-color:#a8a8a8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1;"
+         offset="1"
+         id="stop261" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1789"
+       id="radialGradient4074"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5050471,-4.2322828e-2,0.2072702,1.533045,-9.2079544,-10.465465)"
+       cx="26.106777"
+       cy="38.195114"
+       fx="26.106777"
+       fy="38.195114"
+       r="32.259769" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3158"
+       id="linearGradient4076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3267084,0,0,1.3284769,-2.4016764,-3.6716871)"
+       x1="-0.09401048"
+       y1="7.5195227"
+       x2="2.0178361"
+       y2="38.803547" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient137"
+       id="linearGradient4078"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9490444,0,9.2047928e-2,0.9139444,-2.4275624,-3.8160431)"
+       x1="5.2657914"
+       y1="18.725863"
+       x2="8.212224"
+       y2="52.625851" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13842"
+       id="linearGradient4080"
+       gradientUnits="userSpaceOnUse"
+       x1="22.25"
+       y1="37.625"
+       x2="19.75"
+       y2="14.875"
+       gradientTransform="matrix(1.3207834,0,0,1.3207834,-2.2929174,-3.3785211)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient259"
+       id="linearGradient4082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6420548,0,0,2.0341873,44.885463,-17.792842)"
+       x1="25.875"
+       y1="10.625"
+       x2="25.25"
+       y2="30.875" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1696"
+       id="radialGradient4084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5899574,0,0,1.7187159,117.73446,-32.77917)"
+       cx="11.097818"
+       cy="9.9442587"
+       fx="11.097818"
+       fy="9.9442587"
+       r="37.751713" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9766"
+       id="linearGradient4086"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6420548,0,0,1.6783739,82.278982,-6.8832709)"
+       x1="22.175976"
+       y1="36.987999"
+       x2="22.065331"
+       y2="32.050499" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient148"
+       id="linearGradient4088"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5210452,0,0,1.0695344,2.4660495,-0.6910399)"
+       x1="5.9802299"
+       y1="49.525135"
+       x2="22.268408"
+       y2="27.092569" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient335"
+       id="linearGradient4090"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3342417,0,0,1.1551265,-3.2013665,-4.7107889)"
+       x1="19.116116"
+       y1="28.946041"
+       x2="19.426924"
+       y2="51.912693" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="52.657895"
+     inkscape:cy="22.513081"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1036"
+     inkscape:window-height="830"
+     inkscape:window-x="285"
+     inkscape:window-y="41"
+     inkscape:showpageshadow="false"
+     stroke="#ce5c00"
+     fill="#888a85"
+     showborder="false" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Folder Icon Accept</dc:title>
+        <dc:date>2005-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <dc:description>Active state - when files are being dragged to.</dc:description>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Novell, Inc.</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei
+Garrett LeSage</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Folder"
+     inkscape:groupmode="layer"
+     transform="translate(-49.750002,-6.4999998)" />
+  <g
+     inkscape:label="Open"
+     id="layer3"
+     inkscape:groupmode="layer"
+     transform="translate(-49.750002,-6.4999998)">
+    <g
+       id="g1511"
+       inkscape:label="Folder"
+       transform="translate(47.98743,-0.119403)" />
+    <g
+       id="g1575"
+       inkscape:label="pattern"
+       transform="translate(47.98743,-0.119403)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.89448214;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2475"
+       width="32.105518"
+       height="32.105518"
+       x="50.197243"
+       y="6.9472408"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/document-open.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4022"
+       transform="matrix(0.7571264,0,0,0.7571264,51.48603,9.0579687)"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/document-open.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         transform="matrix(0.8043479,0,0,0.8043479,-0.6933237,0.366863)"
+         style="display:inline"
+         inkscape:label="Shadow"
+         id="g2096">
+        <g
+           style="opacity:0.5"
+           transform="matrix(1.014414,0,0.181179,0.920015,-7.88527,-0.346345)"
+           id="g3354">
+          <path
+             id="path3371"
+             d="M 7.125,42.875 C 5.817069,43.482054 13.621333,43.007633 15.276786,43.15625 C 22.728539,42.973662 32.710951,43.498864 38.90625,42.9375 C 28.327868,42.734036 17.711605,42.86803 7.125,42.875 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3376"
+             d="M 7.0625,42.46875 C 6.3400984,42.322911 4.5748491,43.092456 6.15625,43.40625 C 16.926732,43.761038 27.745751,43.49232 38.53125,43.53125 C 39.259295,43.667433 40.970679,42.899465 39.40625,42.59375 C 28.651625,42.23896 17.832877,42.507715 7.0625,42.46875 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3381"
+             d="M 7,41.9375 C 6.238889,42.017514 5.0528764,42.13462 4.90625,43 C 5.0554797,43.867799 6.2372349,43.981311 7,44.0625 C 13.264716,44.135404 19.533658,44.072928 25.8,44.09375 C 30.053851,44.073213 34.310272,44.13502 38.5625,44.0625 C 39.323611,43.982486 40.509624,43.86538 40.65625,43 C 40.50702,42.132201 39.325265,42.018689 38.5625,41.9375 C 32.297784,41.864596 26.028842,41.927072 19.7625,41.90625 C 15.508734,41.926787 11.252106,41.86498 7,41.9375 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3386"
+             d="M 6.96875,41.59375 C 5.6519933,41.323289 3.5519537,42.931351 5.21875,43.9375 C 9.0532143,45.125005 13.356235,44.092531 17.357144,44.4375 C 24.759306,44.297351 32.230079,44.708618 39.59375,44.25 C 41.358993,44.144081 41.323358,41.818942 39.5625,41.75 C 28.922174,41.29843 18.17842,41.697773 7.5,41.5625 C 7.3225477,41.561098 7.1458643,41.584324 6.96875,41.59375 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3391"
+             d="M 6.9375,41.1875 C 4.3166183,40.611464 3.041246,44.366005 5.96875,44.6875 C 17.331495,44.784213 28.882648,45.274303 40.1875,44.5 C 42.921998,43.395085 40.232604,40.436766 38.0625,41.15625 C 27.68793,41.178914 17.310405,41.112116 6.9375,41.1875 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3396"
+             d="M 6.90625,40.75 C 3.3835192,40.146457 2.6671782,45.28727 6.375,45.1875 C 17.688718,45.005018 29.256776,45.967066 40.46875,44.84375 C 43.52024,43.486131 40.646309,39.961248 38.0625,40.71875 C 27.677532,40.741908 17.289547,40.673948 6.90625,40.75 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3401"
+             d="M 6.90625,40.3125 C 2.8715713,39.687948 2.0833445,45.679261 6.3125,45.59375 C 17.653302,45.498337 29.282996,46.368048 40.53125,45.28125 C 44.147219,43.884667 41.225187,39.440237 38.0625,40.28125 C 27.67753,40.304368 17.289549,40.236503 6.90625,40.3125 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3406"
+             d="M 7.375,39.875 C 3.0249191,38.906286 1.0597142,45.351008 5.78125,45.96875 C 17.358885,46.018088 29.218515,46.792733 40.71875,45.6875 C 44.724914,44.072465 41.707772,39.013682 38.0625,39.84375 C 27.835932,39.864975 17.589222,39.80156 7.375,39.875 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3411"
+             d="M 6.84375,39.46875 C 1.8233552,38.854506 1.024099,46.413494 6.1875,46.46875 C 17.701887,46.270396 29.463081,47.285228 40.875,46.09375 C 45.32893,44.340109 42.166414,38.505662 38.0625,39.4375 C 27.656698,39.460656 17.24788,39.392698 6.84375,39.46875 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             id="path3416"
+             d="M 6.8125,39.03125 C 1.5959042,38.420912 0.27591709,46.270495 5.65625,46.8125 C 17.305315,46.895787 29.202609,47.580396 40.78125,46.5625 C 45.907832,44.98461 42.853887,37.956476 38.0625,39 C 27.646283,39.023191 17.227045,38.95515 6.8125,39.03125 z"
+             style="opacity:0.06666703;fill:#000000;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         inkscape:r_cy="true"
+         inkscape:r_cx="true"
+         d="M 3.8621992,31.458267 C 3.8959782,31.798429 4.264065,32.138591 4.5983728,32.138591 L 29.755029,32.138591 C 30.089337,32.138591 30.389866,31.798429 30.356087,31.458267 L 28.177338,9.5178627 C 28.143559,9.1777014 27.775472,8.8375402 27.441165,8.8375402 L 17.161202,8.8375402 C 16.684066,8.8375402 16.184316,8.53047 16.027751,8.0605972 L 15.136574,5.3860333 C 14.999826,4.9756287 14.694501,4.7907509 14.074538,4.7907509 L 2.0058312,4.7907509 C 1.6715234,4.7907509 1.3709948,5.1309123 1.4047738,5.4710736 L 3.8621992,31.458267 z"
+         id="path2375"
+         style="fill:url(#radialGradient4074);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4076);stroke-width:0.80434787;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         sodipodi:nodetypes="ccccccssssccc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13160"
+         d="M 4.4829491,30.55683 L 28.603537,30.55683"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 4.4829491,28.948134 L 28.603537,28.948134"
+         id="path13139"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         inkscape:r_cy="true"
+         inkscape:r_cx="true"
+         style="fill:url(#linearGradient4078);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17341149;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+         d="M 5.1219328,31.377653 C 5.1473777,31.630295 4.9964572,31.798724 4.73615,31.714509 L 4.73615,31.714509 C 4.4758428,31.630295 4.2909958,31.461867 4.2655509,31.209225 L 1.8071058,5.6726925 C 1.7816609,5.4200502 1.9341794,5.2674882 2.186005,5.2674882 L 14.155194,5.1930406 C 14.586323,5.190359 14.755229,5.2364377 14.869137,5.6141111 C 14.869137,5.6141111 15.749901,8.1482894 15.880436,8.6247971 L 14.618095,6.2499918 C 14.402906,5.8451623 14.132224,5.9131354 13.828691,5.9131354 L 3.1743919,5.9131354 C 2.9225663,5.9131354 2.7716458,6.0815636 2.7970907,6.3342059 L 5.2143563,31.461867 L 5.1219328,31.377653 z"
+         id="path2380"
+         sodipodi:nodetypes="ccccccsscsscccc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434775;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 2.0498617,6.4263923 L 13.941127,6.4263923"
+         id="path13145"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13147"
+         d="M 2.2260331,8.0350882 L 14.517125,8.0350882"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434799;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 2.4135074,9.6437839 L 27.138262,9.6437839"
+         id="path13115"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13113"
+         d="M 2.8810495,14.469871 L 27.936374,14.469871"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434817;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <g
+         inkscape:r_cy="true"
+         inkscape:r_cx="true"
+         style="fill:#ffffff;fill-opacity:0.5803109;fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4;display:block"
+         id="g2381"
+         transform="matrix(0.8321003,0,8.4076879e-2,0.8326778,-7.7851346,2.2934082)"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-ydpi="74.800003">
+        <path
+           inkscape:r_cy="true"
+           inkscape:r_cx="true"
+           style="opacity:0.81568627;fill:#ffffff;fill-opacity:1;stroke:none"
+           d="M 41.785743,9.0363862 C 41.795369,8.5618034 41.800932,8.3118806 41.36235,8.312183 L 28.80653,8.3208402 C 28.50653,8.3208402 28.481916,8.1776341 28.80653,8.3208402 C 29.131144,8.4640463 30.053628,8.9791114 30.989227,9.0218349 C 30.989227,9.0218349 41.785704,9.0382983 41.785743,9.0363862 z"
+           id="path2382"
+           sodipodi:nodetypes="cscscs" />
+      </g>
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13121"
+         d="M 4.3456623,27.339438 L 28.46625,27.339438"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434817;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 4.1094551,25.730742 L 28.327345,25.730742"
+         id="path13119"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13135"
+         d="M 3.9227081,24.122046 L 28.189249,24.122046"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434817;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434817;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 3.7854212,22.513351 L 28.051962,22.513351"
+         id="path13137"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13143"
+         d="M 3.6186928,20.904655 L 27.914119,20.904655"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434793;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 3.4319618,19.295959 L 27.776019,19.295959"
+         id="path13133"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13117"
+         d="M 3.294675,17.687263 L 27.638732,17.687263"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434811;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434799;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 3.1326632,16.078567 L 27.501024,16.078567"
+         id="path13125"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cccsc"
+         id="path13840"
+         d="M 27.845112,11.728262 L 29.956525,31.535329 L 5.0217395,31.635873 C 5.0217395,31.635873 3.5135872,11.728262 3.5135872,11.728262 C 3.5135872,11.728262 27.945655,11.728262 27.845112,11.728262 z"
+         style="opacity:0.3;fill:url(#linearGradient4080);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         sodipodi:nodetypes="cc"
+         id="path13127"
+         d="M 2.5799253,11.25248 L 27.536029,11.25248"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434817;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+      <path
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.11363633;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80434787;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         d="M 2.7397204,12.861176 L 27.538214,12.861176"
+         id="path13123"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         transform="matrix(0.8043479,0,0,0.8043479,-38.413048,0.3668477)"
+         id="g1674">
+        <g
+           style="fill:#ffffff;fill-opacity:0.5803109;fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4;display:block"
+           id="g1531"
+           transform="matrix(1.034424,0,0.10452,1.034424,37.95495,2.512511)"
+           inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/gnome-fs-directory.png"
+           inkscape:export-xdpi="74.800003"
+           inkscape:export-ydpi="74.800003">
+          <path
+             style="stroke:none"
+             d="M 41.785743,9.0363862 C 41.795369,8.5618034 41.800932,8.3118806 41.36235,8.312183 L 28.80653,8.3208402 C 28.50653,8.3208402 28.481916,8.1776341 28.80653,8.3208402 C 29.131144,8.4640463 30.053628,8.9791114 30.989227,9.0218349 C 30.989227,9.0218349 41.785704,9.0382983 41.785743,9.0363862 z"
+             id="path1533"
+             sodipodi:nodetypes="cscscs" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:0.5803109;fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4;display:block"
+           id="g1853"
+           transform="matrix(1.034424,0,0.10452,1.034424,37.95495,2.512511)"
+           inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/gnome-fs-directory.png"
+           inkscape:export-xdpi="74.800003"
+           inkscape:export-ydpi="74.800003">
+          <path
+             style="stroke:none"
+             d="M 41.785743,9.0363862 C 41.795369,8.5618034 41.800932,8.3118806 41.36235,8.312183 L 28.80653,8.3208402 C 28.50653,8.3208402 28.481916,8.1776341 28.80653,8.3208402 C 29.131144,8.4640463 30.053628,8.9791114 30.989227,9.0218349 C 30.989227,9.0218349 41.785704,9.0382983 41.785743,9.0363862 z"
+             id="path1855"
+             sodipodi:nodetypes="cscscs" />
+        </g>
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path8230"
+           d="M 91.36243,2.3750003 C 91.86243,19.253732 82.287367,20.903476 85.349867,31.375258 C 85.349867,31.375258 53.86243,32.261195 53.86243,32.261195 C 51.98743,19.408583 62.23743,11.046642 59.23743,2.529851 L 91.36243,2.3750003 z"
+           style="fill:url(#linearGradient4082);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4084);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path8277"
+           d="M 63.42493,6.4430969 L 86.98743,6.4430969"
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+           d="M 63.343503,8.4430969 L 83.06885,8.4430969"
+           id="path8279"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path8281"
+           d="M 63.130437,10.443097 L 87.445261,10.443097"
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+           d="M 62.386197,12.443097 L 86.239589,12.443097"
+           id="path8283"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path8285"
+           d="M 61.616458,14.443097 L 84.962761,14.443097"
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1.00000048;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+           d="M 60.508109,16.443097 L 79.15427,16.443097"
+           id="path8287"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path8289"
+           d="M 54.36243,31.630597 C 53.121064,19.392558 61.54993,12.568097 59.98743,2.8805969 L 90.86243,2.8805969 L 60.86243,3.5055969 C 62.11243,13.068097 54.666047,18.152044 54.36243,31.630597 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible" />
+      </g>
+      <g
+         transform="matrix(0.8043479,0,0,0.8043479,0.1956521,0.3668477)"
+         inkscape:export-ydpi="74.800003"
+         inkscape:export-xdpi="74.800003"
+         inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/Coleochaete/private/document-open.png"
+         style="opacity:0.9"
+         id="g2240">
+        <path
+           inkscape:export-ydpi="74.800003"
+           inkscape:export-xdpi="74.800003"
+           inkscape:export-filename="/home/jimmac/ximian_art/icons/nautilus/suse93/gnome-fs-directory.png"
+           sodipodi:nodetypes="cccsscccscc"
+           id="path2401"
+           d="M 5.7785654,39.065997 C 5.8820074,39.277466 6.0888914,39.488925 6.3992173,39.488925 L 39.70767,39.488925 C 39.914562,39.488925 40.228834,39.36262 40.415844,39.224574 C 40.946246,38.833039 41.070704,38.612189 41.308626,38.251107 C 43.756752,34.535647 47.113767,18.974214 47.113767,18.974214 C 47.217209,18.762754 47.010326,18.551294 46.7,18.551294 L 11.776358,18.551294 C 11.466032,18.551294 10.120393,34.658624 6.9133592,37.838317 L 5.6751235,39.065997 L 5.7785654,39.065997 z"
+           style="opacity:1;fill:url(#linearGradient4086);fill-opacity:1;fill-rule:nonzero;stroke:#ce5c00;stroke-width:1.00416672;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+           transform="matrix(0.988773,0,0,1.002979,-0.111407,-0.106563)"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true" />
+        <path
+           id="path323"
+           d="M 13.134476,20.138641 C 12.361729,25.129398 11.633175,29.147884 10.418486,33.652505 C 12.804971,32.945398 17.534602,30.448 27.534602,30.448 C 37.534602,30.448 44.258175,21.199301 45.186253,20.094447 L 13.134476,20.138641 z"
+           style="opacity:0.4;fill:url(#linearGradient4088);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc"
+           transform="matrix(0.988773,0,0,1.002979,-0.111407,-0.106563)"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true" />
+        <path
+           style="opacity:0.8;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4090);stroke-width:1.00416696px;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           d="M 45.820083,19.6875 L 12.661612,19.6875 C 12.661612,19.6875 10.513864,35.707107 7.9393398,37.928078 C 16.060417,37.928078 39.510511,37.879442 39.53033,37.879442 C 41.281989,37.879442 44.437971,25.243248 45.820083,19.6875 z"
+           id="path324"
+           sodipodi:nodetypes="cccsc"
+           transform="matrix(0.988773,0,0,1.002979,-0.111407,-0.106563)"
+           inkscape:r_cx="true"
+           inkscape:r_cy="true" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pattern"
+     transform="translate(-49.750002,-6.4999998)" />
+</svg>

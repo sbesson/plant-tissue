@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="33"
+   height="33"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/seb/Professionnel/2007-2011_Dumais_Lab/CellDivisionProject/Matlab/private"
+   sodipodi:docname="autodefineCell.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/editCell.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective14" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="-11.6928"
+     inkscape:cy="1.0960292"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1678"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-309.05352,-565.48721)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.89448214;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2165"
+       width="32.105518"
+       height="32.105518"
+       x="309.50076"
+       y="565.93445"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 337.28955,576.06503 C 329.32427,573.78456 321.63288,574.31126 314.63554,576.2321 C 316.38716,581.99077 318.72565,585.12555 322.10928,589.60659 C 324.60124,589.70544 332.62849,588.52077 335.39737,587.77228 C 336.20212,582.60598 336.57272,580.15864 337.28955,576.06503 z"
+       id="path3174"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:14.66686726;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5637"
+       sodipodi:cx="321.10223"
+       sodipodi:cy="567.11017"
+       sodipodi:rx="4.4194174"
+       sodipodi:ry="4.4194174"
+       d="M 325.43619,566.24523 A 4.4194174,4.4194174 0 1 1 325.41729,566.15542 L 321.10223,567.11017 z"
+       sodipodi:start="6.0862016"
+       sodipodi:end="12.348618"
+       transform="matrix(0.1522532,0,0,0.1551196,288.42677,488.15526)"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#ffffff;stroke-width:14.66686726;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5640"
+       sodipodi:cx="321.10223"
+       sodipodi:cy="567.11017"
+       sodipodi:rx="4.4194174"
+       sodipodi:ry="4.4194174"
+       d="M 325.43619,566.24523 A 4.4194174,4.4194174 0 1 1 325.41729,566.15542 L 321.10223,567.11017 z"
+       sodipodi:start="6.0862016"
+       sodipodi:end="12.348618"
+       transform="matrix(0.1522532,0,0,0.1551196,273.70655,501.84212)"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:14.66686726;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5642"
+       sodipodi:cx="321.10223"
+       sodipodi:cy="567.11017"
+       sodipodi:rx="4.4194174"
+       sodipodi:ry="4.4194174"
+       d="M 325.43619,566.24523 A 4.4194174,4.4194174 0 1 1 325.41729,566.15542 L 321.10223,567.11017 z"
+       sodipodi:start="6.0862016"
+       sodipodi:end="12.348618"
+       transform="matrix(0.1522532,0,0,0.1551196,286.38142,499.98507)"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:14.66686726;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5644"
+       sodipodi:cx="321.10223"
+       sodipodi:cy="567.11017"
+       sodipodi:rx="4.4194174"
+       sodipodi:ry="4.4194174"
+       d="M 325.43619,566.24523 A 4.4194174,4.4194174 0 1 1 325.41729,566.15542 L 321.10223,567.11017 z"
+       sodipodi:start="6.0862016"
+       sodipodi:end="12.348618"
+       transform="matrix(0.1522532,0,0,0.1551196,265.96824,488.29236)"
+       inkscape:export-filename="/home/seb/Professionnel/2007-2011_Dumais_Lab/Matlab/celldivision/private/newCell.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.03884411px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Georgia"
+       x="324.71841"
+       y="584.34503"
+       id="text3192"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3194"
+         x="324.71841"
+         y="584.34503">A</tspan></text>
+  </g>
+</svg>
