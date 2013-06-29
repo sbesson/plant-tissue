@@ -28,7 +28,8 @@
 function  check(N)
 
 % Remove cells that are not well defined
-for i=1:length(N.c)
+nCells = length(N.c);
+for i = 1 : nCells
     Vstart = zeros(length(N.c{i}),2); % List of start vertices
     Vend = zeros(length(N.c{i}),2); % List of end vertices
     Vstart(N.c{i}>0,:) = N.v(N.e(N.c{i}(N.c{i}>0),1),:);
@@ -44,7 +45,8 @@ end
 ne = 1:size(N.e,1);
 
 % Remove edges belonging to defined cells
-ne(unique(abs([N.c{:}]))) = [];
+for i = 1 : nCells, ne(abs(N.c{i})) = NaN; end
+ne(isnan(ne))=[];
 
 % Remove unused edges
 if ~isempty(ne), warning('check:warning',['Unused edges:' sprintf('%d ',ne)]); end;
