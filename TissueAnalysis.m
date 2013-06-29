@@ -98,7 +98,7 @@ function ImportData_Callback(hObject, eventdata, handles)
 [filename,path] = uigetfile({'*.mat'},'Choose data file to import',handles.pathname);
 
 % If valid filename launch the openimage function
-if ~isequal(handles.filename,0)
+if ~isequal(filename,0)
     opendata(hObject,eventdata,[path filename]); 
 end
 
