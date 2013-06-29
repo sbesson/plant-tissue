@@ -24,7 +24,7 @@ compareDivisionPlanes =1;
 if removeDivisions % Remove youngest edges
     load([folder filename]); % Load the file
     originaltissue = tissue; % Save the original tissue information
-    check(tissue);
+    sanityCheck(tissue);
     tissue.e(:,3) = 0; % Remove the angle information
     
     N_edgestomerge = sum(tissue.e(:,4)==2); % Determine number of edges to merge

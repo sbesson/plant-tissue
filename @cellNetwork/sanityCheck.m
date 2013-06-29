@@ -1,12 +1,12 @@
-%% check
+%% sanityCheck
 % Check a cellNetwork object
 %%
 
 %% Syntax   
-% check(N)
+% sanityCheck(N)
 %
 %% Description
-% Loops over the defined cells and checks unused vertices and edges as well as badly defined cells.
+% Loops over the defined cells and sanityChecks unused vertices and edges as well as badly defined cells.
 %
 %% Inputs
 % * N - a cellNetwork object
@@ -14,8 +14,8 @@
 %% Outputs
 %
 %% Examples
-% >> check(N); 
-% check validity of the cellNetwork object
+% >> sanityCheck(N); 
+% sanityCheck validity of the cellNetwork object
 %
 %% See also 
 % * clean
@@ -25,7 +25,7 @@
 % email address : sbesson@oeb.harvard.edu
 % October 2009; Last revision: October 23, 2009
 
-function  check(N)
+function  sanityCheck(N)
 
 % Remove cells that are not well defined
 nCells = length(N.c);
@@ -37,7 +37,7 @@ for i = 1 : nCells
     Vend(N.c{i}>0,:) = N.v(N.e(N.c{i}(N.c{i}>0),2),:);
     Vend(N.c{i}<0,:) = N.v(N.e(-N.c{i}(N.c{i}<0),1),:);
     if any(any(Vstart-circshift(Vend,[1 0])))
-        error('check:error','Bad definition of cell %g',i);
+        error('sanityCheck:error','Bad definition of cell %g',i);
     end
 end
 
@@ -49,7 +49,7 @@ for i = 1 : nCells, ne(abs(N.c{i})) = NaN; end
 ne(isnan(ne))=[];
 
 % Remove unused edges
-if ~isempty(ne), warning('check:warning',['Unused edges:' sprintf('%d ',ne)]); end;
+if ~isempty(ne), warning('sanityCheck:warning',['Unused edges:' sprintf(' %d',ne)]); end;
 
 % List existing vertices
 nv = 1:size(N.v,1);
@@ -58,6 +58,6 @@ nv = 1:size(N.v,1);
 if ~isempty(N.e), nv(unique(N.e(:,1:2))) = []; end
 
 % Remove unused vertices
-if ~isempty(nv), warning('check:warning',['Unused vertices:' sprintf('%d ',nv)]); end;
+if ~isempty(nv), warning('sanityCheck:warning',['Unused vertices:' sprintf(' %d',nv)]); end;
 
 end

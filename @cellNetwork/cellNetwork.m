@@ -62,6 +62,6 @@ switch nargin
     otherwise
          error('Wrong number of arguments') 
 end
-check(N)
+sanityCheck(N)
     
 end
