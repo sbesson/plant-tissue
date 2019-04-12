@@ -10,20 +10,25 @@ the division plane of plant cells and plant tissues.
 
 ## Cell network
 
-A cell network can be representated as a collection of vertices, edges and cells.
-
 ![cell network](celldescription.svg)
 
-Vertices are points in the 2D space and can be coded as an `nx2` array.
+A 2D cell network can be created from a collection of vertices, edges and cells.
 
-Edges are nx4 arrays defined by several parameters:
+Each vertex is a 2D point and a list of vertices can be created as a `nx2`
+array.
 
-- the first element is the index of the starting vertex
-- the second element is the index of the ending vertex
-- the third element is the oriented angle formed between the arc and the chord length joining the 2 vertices
-- the fourth element is an optional parameter that contains the age of the vertex.
+Each edge is a 2D arc with an optional age (lineage). A list of edges can be
+represented as a `nx4` array where each row is composed of the following element:
 
-Cells are implemented as arrays of cells. Each cell contain a vector with the indexes to the edges.
+-   the first element is the index of the starting vertex,
+-   the second element is the index of the ending vertex,
+-   the third element is the oriented angle (in radians) formed between the arc
+    and the chord length joining the 2 vertices. 0 means a straight line,
+-   the fourth (optional) element is the age of the edge.
+
+Cells are directed cycles i.e. cyclic sequences of vertices and edges. A list
+of cells can be represented as a cell array where is cell contains of vector
+with the edge index.
 
 ## Example
 
